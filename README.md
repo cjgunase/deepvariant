@@ -1,3 +1,6 @@
+# Tutorials
+https://canvas.stanford.edu/courses/51037
+
 # DeepVariant
 
 DeepVariant is an analysis pipeline that uses a deep neural network to call
