@@ -1,3 +1,8 @@
+#aug 16 2019
+#tutorials about deep learning and genomics
+
+https://canvas.stanford.edu/courses/51037
+
 # DeepVariant
 
 DeepVariant is an analysis pipeline that uses a deep neural network to call
